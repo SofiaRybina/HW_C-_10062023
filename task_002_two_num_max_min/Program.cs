@@ -4,7 +4,7 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3*/
 
 Console.WriteLine("Hello, write the first number:");
-int num1 = int.Parse(Console.ReadLine())!;
+int num1 = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Write the second number:");
 int num2 = int.Parse(Console.ReadLine()!);
 
