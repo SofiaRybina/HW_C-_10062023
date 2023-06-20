@@ -22,13 +22,17 @@ while(i <= num){
 // int i = 1;
 // Console.Write($"{num} -> ");
 
+// if (num % 2 == 1)
+// {
+//     num -= 1;
+// }
 // while (i <= num)
 // {
 //     if (i % 2 == 0 && i < num)
 //     {
 //         Console.Write(i + ", ");
 //     }
-//     else if (i == num && i % 2 == 0 || i == num && i % 2 == 1) Console.Write(i);
+//     else if (i == num && i % 2 == 0) Console.Write(i);
 
 //     i++;
 // }
