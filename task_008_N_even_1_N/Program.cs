@@ -16,3 +16,19 @@ while(i <= num){
             i++;
         }
 }
+// Убираем запятую:
+// Console.WriteLine("Input number N:");
+// int num = int.Parse(Console.ReadLine()!);
+// int i = 1;
+// Console.Write($"{num} -> ");
+
+// while (i <= num)
+// {
+//     if (i % 2 == 0 && i < num)
+//     {
+//         Console.Write(i + ", ");
+//     }
+//     else if (i == num && i % 2 == 0 || i == num && i % 2 == 1) Console.Write(i);
+
+//     i++;
+// }
